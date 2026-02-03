@@ -8,3 +8,9 @@ my new branch
 this is an edit
 
 I am going to add this before i commit
+
+not adding
+
+1
+
+2
